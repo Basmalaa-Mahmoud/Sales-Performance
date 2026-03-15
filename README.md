@@ -7,23 +7,13 @@ This project analyzes the sales performance to identify the primary drivers of r
 • Analyzed +9000 row dataset Python and Power BI, and did data cleaning, handling missing values, data type conversations, feature engineering, and EDA (Exploratory Data Analysis) in python
 
 ## Key KPIs:
-Total sales: 2.26M
+Total sales: 2.26M | Total customers: 793
 
-Total customers: 793
-
-Sales YOY change: 723K
-
-Sales YOY %: 47%
-
-Sales performance vs LY: 300.10K
+Sales YOY change: 723K | Sales YOY %: 47% | Sales performance vs LY: 300.10K
 
 Total Orders: 9800
 
-Outlier (high-Value) Orders: 19 (0.2% of total orders)
-
-Outlier Sales: 8%
-
-Outlier customer base: 19
+Outlier (high-Value) Orders: 19 (0.2% of total orders) | Outlier Sales: 8% | Outlier customer base: 19
 
 ## Main Drivers:
 • sales performance is increasing each year

@@ -19,8 +19,11 @@ Outlier customer base: 19
 
 ## Main Drivers:
 • sales performance is increasing each year
+
 • the "canon imageCLASS 2200 Advanced copier" is the highest revenue product
+
 • The consumer segment has the highest revenue
+
 • the technology category has the highest revenue
 
 ## Insights & Recommendations

@@ -29,12 +29,15 @@ Outlier customer base: 19
 ## Insights & Recommendations
 1. Sales Performance
 • Insight: Massive sales increase in the last quarter of each year but it is really slow at the beginning of the year
+
 • Recommendation: give people discounts and deals if they buy something in December like a credit that they can only use in January 
 
-2. Value rather than Quantity
+3. Value rather than Quantity
 • Insight: Technology category has the least total orders but the most total sales because of the highest average sales, on the other hand Office Supplies has the highest total orders but it makes the least total sales
+
 • Recommendation: focus more on Technology making fewer shipping processes compared to Office Supplies and more sales
 
-3. Customers' Retention
+5. Customers' Retention
 • Insight: Most customers are frequent customers, which means the business has a strong retention
+
 • Recommendation: Prioritize new customer acquisition, once they've bought once, they usually keep coming back

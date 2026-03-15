@@ -8,13 +8,21 @@ This project analyzes the sales performance to identify the primary drivers of r
 
 ## Key KPIs:
 Total sales: 2.26M
+
 Total customers: 793
+
 Sales YOY change: 723K
+
 Sales YOY %: 47%
+
 Sales performance vs LY: 300.10K
+
 Total Orders: 9800
+
 Outlier (high-Value) Orders: 19 (0.2% of total orders)
+
 Outlier Sales: 8%
+
 Outlier customer base: 19
 
 ## Main Drivers:

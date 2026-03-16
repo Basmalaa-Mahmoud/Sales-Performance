@@ -2,9 +2,7 @@
 This project analyzes the sales performance to identify the primary drivers of revenue and customer segments
 
 ## Project Overview:
-• This project analyzes the sales performance to identify the primary drivers of revenue and customer segments 
-
-• Analyzed +9000 row dataset Python and Power BI, and did data cleaning, handling missing values, data type conversations, feature engineering, and EDA (Exploratory Data Analysis) in python
+Analyzed +9000 row dataset Python and Power BI, and did data cleaning, handling missing values, data type conversations, feature engineering, and EDA (Exploratory Data Analysis) in python
 
 ## Key KPIs:
 Total sales: 2.26M | Total customers: 793
